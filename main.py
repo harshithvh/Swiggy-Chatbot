@@ -11,6 +11,7 @@ nltk.download('punkt')
 nltk.download('stopwords')
 # downloading wordnet, which contains all lemmas of english language (lemmas are used to shorten the words Ex: removing 'ing' from downloading etc)
 nltk.download('wordnet')
+# Got an error while running fixed it by adding:
 nltk.download('omw-1.4')
 
 from nltk.tokenize import word_tokenize
