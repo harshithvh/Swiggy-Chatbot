@@ -10,8 +10,9 @@ https://user-images.githubusercontent.com/91654378/155391920-107107d7-416b-489f-
 A chatbot is artificial intelligence (AI) software that can imitate a natural language discussion (or chat) with a user via messaging apps, websites or mobile apps. What is the significance of chatbots? A chatbot is frequently described as one of the most advanced and promising forms of human-machine interaction. Chatbots can automatically simulate interactions with customers based on a set of predefined conditions or events.
 
 From a technology standpoint, a chatbot is simply the next step in the evolution of a Question Answering system that uses Natural Language Processing (NLP).
-
-<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Swiggy-Chatbot/blob/main/images/img1.png" />
+<p align="center">
+<img align="left" alt="Visual Studio Code" width="700px" src="https://github.com/harshithvh/Swiggy-Chatbot/blob/main/images/img1.png" />
+</p><br>
 
 Today's customers want immediate resolution of their queries.
 Chatbots can be used to assist users for a specific task, whenever they want. And as chatbots do not get tired or bored, they can be employed to provide customer service round the clock. Chatbot applications streamline interactions between people and services, enhancing customer experience.
