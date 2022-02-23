@@ -26,8 +26,8 @@ Chatbots can be used to assist users for a specific task, whenever they want. An
 Generative chatbots use a combination of supervised learning, unsupervised learning & reinforcement learning. A generative chatbot is an open-domain chatbot that creates unique language combinations rather than selecting from a list of pre-defined responses. Retrieval-based systems are limited to predefined responses. Chatbots that use generative methods can generate new dialogue based on large amounts of conversational training data.
 
 <p align="center">
-<img alt="Visual Studio Code" width="700px" height="500px" src="https://github.com/harshithvh/Swiggy-Chatbot/blob/main/images/img2.png" />
-</p><br>
+<img alt="Visual Studio Code" width="700px" height="550px" src="https://github.com/harshithvh/Swiggy-Chatbot/blob/main/images/img2.png" />
+</p>
 
 # 2 Retrieval Based
 
