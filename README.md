@@ -26,7 +26,7 @@ Chatbots can be used to assist users for a specific task, whenever they want. An
 Generative chatbots use a combination of supervised learning, unsupervised learning & reinforcement learning. A generative chatbot is an open-domain chatbot that creates unique language combinations rather than selecting from a list of pre-defined responses. Retrieval-based systems are limited to predefined responses. Chatbots that use generative methods can generate new dialogue based on large amounts of conversational training data.
 
 <p align="center">
-<img alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Swiggy-Chatbot/blob/main/images/img2.png" />
+<img alt="Visual Studio Code" width="700px" src="https://github.com/harshithvh/Swiggy-Chatbot/blob/main/images/img2.png" />
 </p><br>
 
 # 2 Retrieval Based
@@ -36,7 +36,7 @@ Generative chatbots use a combination of supervised learning, unsupervised learn
 Retrieval based chatbots, employ techniques such as keyword matching, machine learning, and deep learning to find the most appropriate response. These chatbots, regardless of technology, solely deliver predefined responses and do not generate fresh output. From a database of predefined responses, the chatbot is trained to offer the best possible response. The responses are based on previously collected data.
 
 <p align="center">
-<img alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Swiggy-Chatbot/blob/main/images/img3.png" />
+<img alt="Visual Studio Code" width="700px" src="https://github.com/harshithvh/Swiggy-Chatbot/blob/main/images/img3.png" />
 </p><br>
 
 Since the Generative Based Chatbots require huge amount of data to train on and construct the appropriate response, we will be using Retrieval Based approach for our chatbot.
